@@ -17,7 +17,6 @@
 ![HTML](https://img.shields.io/badge/HTML-CSS%2FJS-red?style=for-the-badge)
 
 [![Live Demo](https://img.shields.io/badge/-LIVE%20DEMO-58cc02?style=for-the-badge&logo=cloudflare)](https://zero-to-ai-engineer.ingenhack.workers.dev)
-[![GitHub Pages](https://img.shields.io/badge/-GITHUB%20PAGES-black?style=for-the-badge&logo=github)](https://md-mamun-00.github.io/zero-to-AI-engineer/)
 
 [![Stars](https://img.shields.io/github/stars/Md-Mamun-00/zero-to-AI-engineer?style=for-the-badge&color=yellow)](https://github.com/Md-Mamun-00/zero-to-AI-engineer/stargazers)
 [![Forks](https://img.shields.io/github/forks/Md-Mamun-00/zero-to-AI-engineer?style=for-the-badge&color=purple)](https://github.com/Md-Mamun-00/zero-to-AI-engineer/network/members)
@@ -417,7 +416,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ### *Start your AI engineering journey today.*
 
-**[Begin the Roadmap →](https://md-mamun-00.github.io/zero-to-AI-engineer/)**
+**[Begin the Roadmap →](https://zero-to-ai-engineer.ingenhack.workers.dev)**
 
 ---
 
