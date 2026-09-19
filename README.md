@@ -1,10 +1,12 @@
+<!-- SEO: Zero to AI Engineer is a free, interactive 24-week roadmap to become an AI Engineer. Learn Python, Machine Learning, Deep Learning, Transformers, LLMs, RAG, Agents, and deploy real projects. Duolingo-style learning path with progress tracking, XP, streaks, and 12 portfolio projects. -->
+
 <div align="center">
 
 <img src="assets/mascots/15_waving_header_logo.png" alt="AI Engineer Logo" width="120">
 
 # 🐍 Zero to AI Engineer
 
-### *A 24-week roadmap from your first line of Python to deployed LLM apps, RAG systems & agents.*
+### *Free, interactive 24-week roadmap to become an AI Engineer — from Python basics to building LLM apps, RAG systems, and autonomous agents. Track progress, earn XP, and ship 12 portfolio projects.*
 
 ---
 
@@ -14,7 +16,8 @@
 ![Projects](https://img.shields.io/badge/projects-12-purple?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-CSS%2FJS-red?style=for-the-badge)
 
-[![Deploy to GitHub Pages](https://img.shields.io/badge/-DEPLOY%20NOW-black?style=for-the-badge&logo=github)](https://md-mamun-00.github.io/zero-to-AI-engineer/)
+[![Live Demo](https://img.shields.io/badge/-LIVE%20DEMO-58cc02?style=for-the-badge&logo=cloudflare)](https://zero-to-ai-engineer.ingenhack.workers.dev)
+[![GitHub Pages](https://img.shields.io/badge/-GITHUB%20PAGES-black?style=for-the-badge&logo=github)](https://md-mamun-00.github.io/zero-to-AI-engineer/)
 
 [![Stars](https://img.shields.io/github/stars/Md-Mamun-00/zero-to-AI-engineer?style=for-the-badge&color=yellow)](https://github.com/Md-Mamun-00/zero-to-AI-engineer/stargazers)
 [![Forks](https://img.shields.io/github/forks/Md-Mamun-00/zero-to-AI-engineer?style=for-the-badge&color=purple)](https://github.com/Md-Mamun-00/zero-to-AI-engineer/network/members)
@@ -271,6 +274,8 @@ zero-to-AI-engineer/
 ---
 
 ## 🚀 Quick Start
+
+**Live Demo:** [zero-to-ai-engineer.ingenhack.workers.dev](https://zero-to-ai-engineer.ingenhack.workers.dev)
 
 ```bash
 # Clone the repo
